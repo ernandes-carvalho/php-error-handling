@@ -1,0 +1,16 @@
+{
+    "name": "ernandes/php-error-handling",
+    "description": "",
+    "authors": [
+        {
+            "name": "Ernandes Carvalho",
+            "email": "ernandesdecarvalho@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SON\\": "src"
+        } 
+    } 
+}
